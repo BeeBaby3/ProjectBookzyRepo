@@ -12,4 +12,4 @@ class BookzyApplicationTests {
     public void testWordCount() {     	 
    	 assertEquals(7,analyser.getWordCount("Train to win in the digital economy"));	 
     }
-
+}
